@@ -1,0 +1,182 @@
+Refseq and Alpha C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation CCG to CUG (P to L) at location 912 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 3266 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 5985 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 14407 on Refseg
+Non-Silent C-U mutation CGG to UGG (R to W) at location 14675 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 15278 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 17596 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 23708 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 26059 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 27971 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 28976 on Refseg
+ Total silent C-U: 2
+ Total nonsilent C-U:10
+
+Refseq and Beta C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation ACU to AUU (T to I) at location 744 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 1058 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 10115 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 14113 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 14407 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 21613 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 23663 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 25903 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 26455 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 28252 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 28309 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 28886 on Refseg
+ Total silent C-U: 0
+ Total nonsilent C-U:13
+
+Refseq and Gamma C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation ACA to AUA (T to I) at location 2748 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 3827 on Refseg
+Non-Silent C-U mutation ACU to AUU (T to I) at location 12777 on Refseg
+Non-Silent C-U mutation CAC to UAC (H to Y) at location 13859 on Refseg
+Non-Silent C-U mutation CAC to UAC (H to Y) at location 14407 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 16886 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 21613 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 21637 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 23524 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 24641 on Refseg
+ Total silent C-U: 1
+ Total nonsilent C-U:10
+
+Refseq and Delta C-T silent mutation vs nonsilent:
+Silent C-U mutation CUA to UUA (L to L) at location 1472 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 6401 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 7123 on Refseg
+Non-Silent C-U mutation ACU to AUU (T to I) at location 8985 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 10028 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 14407 on Refseg
+Non-Silent C-U mutation CAU to UAU (H to Y) at location 15239 on Refseg
+Non-Silent C-U mutation CAU to UAU (H to Y) at location 16465 on Refseg
+Non-Silent C-U mutation CAU to UAU (H to Y) at location 19219 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 21845 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 25468 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 27751 on Refseg
+Non-Silent C-U mutation ACU to AUU (T to I) at location 27873 on Refseg
+Non-Silent C-U mutation GCA to GUA (A to V) at location 28659 on Refseg
+ Total silent C-U: 4
+ Total nonsilent C-U:11
+
+Refseq and Omicron C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation CUU to UUU (L to F) at location 2789 on Refseg
+Non-Silent C-U mutation CCU to CUU (P to L) at location 4320 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 9533 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 9865 on Refseg
+Non-Silent C-U mutation ACU to AUU (T to I) at location 11673 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 12879 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 14407 on Refseg
+Non-Silent C-U mutation CUC to UUC (L to F) at location 15713 on Refseg
+Non-Silent C-U mutation ACG to AUG (T to  M) at location 17409 on Refseg
+Non-Silent C-U mutation ACG to AUG (T to  M) at location 19954 on Refseg
+Non-Silent C-U mutation ACG to AUG (T to  M) at location 23524 on Refseg
+Non-Silent C-U mutation CAC to UAC (H to Y) at location 25415 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 25583 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 26059 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 26269 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 27806 on Refseg
+Non-Silent C-U mutation CCC to UCC (P to S) at location 28310 on Refseg
+ Total silent C-U: 3
+ Total nonsilent C-U:14
+
+Refseq and Epsilon C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation CCU to UCU (P to S) at location 1058 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation ACA to AUA (T to I) at location 3816 on Refseg
+Non-Silent C-U mutation ACA to AUA (T to I) at location 5182 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 8894 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 10227 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 13018 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 14407 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 16393 on Refseg
+Non-Silent C-U mutation CCA to CUA (P to L) at location 22596 on Refseg
+Non-Silent C-U mutation CCA to CUA (P to L) at location 25045 on Refseg
+Non-Silent C-U mutation CCA to CUA (P to L) at location 26680 on Refseg
+Non-Silent C-U mutation GCU to GUU (A to V) at location 28086 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 28886 on Refseg
+Non-Silent C-U mutation UCC to UUC (S to F) at location 29361 on Refseg
+ Total silent C-U: 1
+ Total nonsilent C-U:14
+
+Refseq and Eta C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation UCU to UUU (S to F) at location 1497 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 6284 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 9564 on Refseg
+Non-Silent C-U mutation ACC to AUU (T to I) at location 14406 on Refseg
+Non-Silent C-U mutation ACC to AUU (T to I) at location 14407 on Refseg
+Non-Silent C-U mutation CAU to UAU (H to Y) at location 18170 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 21761 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 24747 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 26304 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 28886 on Refseg
+ Total silent C-U: 1
+ Total nonsilent C-U:10
+
+Refseq and Iota C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation CCU to UCU (P to S) at location 1058 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 3410 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 6572 on Refseg
+Non-Silent C-U mutation ACA to AUA (T to I) at location 9285 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 10524 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 14407 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 16361 on Refseg
+Non-Silent C-U mutation CAC to UAC (H to Y) at location 18554 on Refseg
+Non-Silent C-U mutation CAC to UAC (H to Y) at location 21574 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 21845 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 23663 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 25516 on Refseg
+Non-Silent C-U mutation ACA to AUA (T to I) at location 27924 on Refseg
+Non-Silent C-U mutation CCC to CUC (P to L) at location 28311 on Refseg
+Non-Silent C-U mutation CAG to UAG (Z to STOP) at location 28868 on Refseg
+ Total silent C-U: 3
+ Total nonsilent C-U:13
+
+Refseq and Kappa C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation ACC to AUC (T to I) at location 3456 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 4964 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 9490 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 14407 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 21845 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 25468 on Refseg
+Non-Silent C-U mutation CCA to UCA (P to S) at location 26123 on Refseg
+Non-Silent C-U mutation CCA to UCA (P to S) at location 26680 on Refseg
+ Total silent C-U: 5
+ Total nonsilent C-U:4
+
+Refseq and Mu C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation CCA to UCA (P to S) at location 2432 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Silent C-U mutation CUA to UUA (L to L) at location 4877 on Refseg
+Non-Silent C-U mutation GCU to GUU (A to V) at location 6036 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 10028 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 14407 on Refseg
+Non-Silent C-U mutation ACC to AUC (T to I) at location 17490 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 18876 on Refseg
+Non-Silent C-U mutation CAA to UAA (Z to STOP) at location 20147 on Refseg
+Silent C-U mutation CUG to UUG (L to L) at location 21845 on Refseg
+Non-Silent C-U mutation CCU to UCU (P to S) at location 28007 on Refseg
+Non-Silent C-U mutation UCU to UUU (S to F) at location 28095 on Refseg
+Non-Silent C-U mutation CUU to UUU (L to F) at location 28889 on Refseg
+ Total silent C-U: 2
+ Total nonsilent C-U:11
+
+Refseq and Zeta C-T silent mutation vs nonsilent:
+Non-Silent C-U mutation UCU to UUU (S to F) at location 3036 on Refseg
+Non-Silent C-U mutation UCG to UUG (S to L) at location 6039 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 11823 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 12052 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 14407 on Refseg
+Non-Silent C-U mutation UCA to UUA (S to L) at location 28252 on Refseg
+ Total silent C-U: 0
+ Total nonsilent C-U:6
+

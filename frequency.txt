@@ -1,0 +1,205 @@
+
+The frequency of the transition and tranversion nucleotides of Alpha genome vs Refseq genome:
+T -> C:
+ total C in Alpha: 5492
+ substitution count: 2 
+ frequency: 0.021%
+A -> G:
+ total G in Alpha: 5863
+ substitution count: 3 
+ frequency: 0.034%
+G -> A:
+ total A in Alpha: 8954
+ substitution count: 2 
+ frequency: 0.034%
+C -> T:
+ total T in Alpha: 9594
+ substitution count: 13 
+ frequency: 0.237%
+Total Subsitution vs Total Pairs: 32 and 29903
+
+The frequency of the transition and tranversion nucleotides of Beta genome vs Refseq genome:
+A -> G:
+ total G in Beta: 5863
+ substitution count: 4 
+ frequency: 0.045%
+T -> C:
+ total C in Beta: 5492
+ substitution count: 1 
+ frequency: 0.01%
+G -> A:
+ total A in Beta: 8954
+ substitution count: 1 
+ frequency: 0.017%
+C -> T:
+ total T in Beta: 9594
+ substitution count: 14 
+ frequency: 0.255%
+Total Subsitution vs Total Pairs: 28 and 29903
+
+The frequency of the transition and tranversion nucleotides of Gamma genome vs Refseq genome:
+A -> G:
+ total G in Gamma: 5863
+ substitution count: 3 
+ frequency: 0.034%
+T -> C:
+ total C in Gamma: 5492
+ substitution count: 3 
+ frequency: 0.031%
+G -> A:
+ total A in Gamma: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Gamma: 9594
+ substitution count: 12 
+ frequency: 0.218%
+Total Subsitution vs Total Pairs: 30 and 29907
+
+The frequency of the transition and tranversion nucleotides of Delta genome vs Refseq genome:
+A -> G:
+ total G in Delta: 5863
+ substitution count: 4 
+ frequency: 0.045%
+T -> C:
+ total C in Delta: 5492
+ substitution count: 2 
+ frequency: 0.021%
+G -> A:
+ total A in Delta: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Delta: 9594
+ substitution count: 16 
+ frequency: 0.291%
+Total Subsitution vs Total Pairs: 40 and 29903
+
+The frequency of the transition and tranversion nucleotides of Omicron genome vs Refseq genome:
+T -> C:
+ total C in Omicron: 5492
+ substitution count: 2 
+ frequency: 0.021%
+A -> G:
+ total G in Omicron: 5863
+ substitution count: 6 
+ frequency: 0.067%
+G -> A:
+ total A in Omicron: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Omicron: 9594
+ substitution count: 17 
+ frequency: 0.31%
+Total Subsitution vs Total Pairs: 41 and 29903
+
+The frequency of the transition and tranversion nucleotides of Epsilon genome vs Refseq genome:
+A -> G:
+ total G in Epsilon: 5863
+ substitution count: 1 
+ frequency: 0.011%
+C -> T:
+ total T in Epsilon: 9594
+ substitution count: 16 
+ frequency: 0.291%
+G -> A:
+ total A in Epsilon: 8954
+ substitution count: 1 
+ frequency: 0.017%
+Total Subsitution vs Total Pairs: 26 and 29903
+
+The frequency of the transition and tranversion nucleotides of Eta genome vs Refseq genome:
+A -> G:
+ total G in Eta: 5863
+ substitution count: 5 
+ frequency: 0.056%
+T -> C:
+ total C in Eta: 5492
+ substitution count: 4 
+ frequency: 0.042%
+G -> A:
+ total A in Eta: 8954
+ substitution count: 2 
+ frequency: 0.034%
+C -> T:
+ total T in Eta: 9594
+ substitution count: 12 
+ frequency: 0.218%
+Total Subsitution vs Total Pairs: 29 and 29903
+
+The frequency of the transition and tranversion nucleotides of Iota genome vs Refseq genome:
+T -> C:
+ total C in Iota: 5492
+ substitution count: 1 
+ frequency: 0.01%
+A -> G:
+ total G in Iota: 5863
+ substitution count: 3 
+ frequency: 0.034%
+G -> A:
+ total A in Iota: 8954
+ substitution count: 2 
+ frequency: 0.034%
+C -> T:
+ total T in Iota: 9594
+ substitution count: 17 
+ frequency: 0.31%
+Total Subsitution vs Total Pairs: 26 and 29903
+
+The frequency of the transition and tranversion nucleotides of Kappa genome vs Refseq genome:
+T -> C:
+ total C in Kappa: 5492
+ substitution count: 2 
+ frequency: 0.021%
+A -> G:
+ total G in Kappa: 5863
+ substitution count: 3 
+ frequency: 0.034%
+G -> A:
+ total A in Kappa: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Kappa: 9594
+ substitution count: 10 
+ frequency: 0.182%
+Total Subsitution vs Total Pairs: 32 and 29903
+
+The frequency of the transition and tranversion nucleotides of Mu genome vs Refseq genome:
+A -> G:
+ total G in Mu: 5863
+ substitution count: 3 
+ frequency: 0.034%
+T -> C:
+ total C in Mu: 5492
+ substitution count: 2 
+ frequency: 0.021%
+G -> A:
+ total A in Mu: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Mu: 9594
+ substitution count: 14 
+ frequency: 0.255%
+Total Subsitution vs Total Pairs: 36 and 29906
+
+The frequency of the transition and tranversion nucleotides of Zeta genome vs Refseq genome:
+A -> G:
+ total G in Zeta: 5863
+ substitution count: 2 
+ frequency: 0.022%
+T -> C:
+ total C in Zeta: 5492
+ substitution count: 1 
+ frequency: 0.01%
+G -> A:
+ total A in Zeta: 8954
+ substitution count: 3 
+ frequency: 0.051%
+C -> T:
+ total T in Zeta: 9594
+ substitution count: 9 
+ frequency: 0.164%
+Total Subsitution vs Total Pairs: 24 and 29903

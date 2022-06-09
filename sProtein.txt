@@ -1,0 +1,19 @@
+GenBankSamples/regseq_alpha1.xml ReqSeg Alpha
+GenBankSamples/alpha2_alpha1.xml Alpha Alpha
+GenBankSamples/alpha3_alpha1.xml Alpha Alpha
+
+GenBankSamples/regseq_beta1.xml ReqSeg Beta
+GenBankSamples/beta2_beta1.xml Beta Beta
+GenBankSamples/beta3_beta1.xml Beta Beta
+
+GenBankSamples/regseq_gamma1.xml ReqSeg Gamma
+GenBankSamples/gamma2_gamma1.xml Gamma Gamma
+GenBankSamples/gamma3_gamma1.xml Gamma Gamma
+
+GenBankSamples/regseq_delta1.xml ReqSeg Delta
+GenBankSamples/delta2_delta1.xml Delta Delta
+GenBankSamples/delta3_delta1.xml Delta Delta
+
+GenBankSamples/regseq_omicron1.xml ReqSeg Omicron
+GenBankSamples/omicron2_omicron1.xml Omicron Omicron
+GenBankSamples/omicron3_omicron1.xml Omicron Omicron

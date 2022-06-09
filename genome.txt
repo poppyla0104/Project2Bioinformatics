@@ -1,0 +1,11 @@
+810KZEXG11R-Alignment.xml Refseq Alpha Genome Genome
+811U85X7114-Alignment.xml Refseq Beta Genome Genome
+81209GMV11R-Alignment.xml Refseq Gamma Genome Genome
+812BR5FG114-Alignment.xml Refseq Delta Genome Genome
+812FSY59114-Alignment.xml Refseq Omicron Genome Genome
+814KKCTX114-Alignment.xml Refseq Epsilon Genome Genome
+8178WPJF114-Alignment.xml Refseq Eta Genome Genome
+817AXYZW114-Alignment.xml Refseq Iota Genome Genome
+817D78K0114-Alignment.xml Refseq Kappa Genome Genome
+817ENT3U114-Alignment.xml Refseq Mu Genome Genome
+817GXY28114-Alignment.xml Refseq Zeta Genome Genome

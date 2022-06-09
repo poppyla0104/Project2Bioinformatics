@@ -1,0 +1,469 @@
+
+Nucleotide mutation of whole Alpha genome vs Refseq genome
+T -> Deletion: 0.281%
+T -> C: 0.021%
+T -> G: 0.01%
+T -> A: 0.01%
+T ->  : 0.125%
+A -> Deletion: 0.235%
+A -> G: 0.034%
+A -> T: 0.022%
+A ->  : 0.48%
+G -> Deletion: 0.154%
+G -> C: 0.068%
+G -> T: 0.017%
+G -> A: 0.034%
+G ->  : 0.119%
+C -> Deletion: 0.291%
+C -> T: 0.237%
+C -> A: 0.055%
+C ->  : 0.091%
+
+Nucleotide mutation of S protein of Alpha genome vs Refseq genome
+A -> Deletion: 0.034%
+A -> T: 0.011%
+A -> G: 0.011%
+C -> Deletion: 0.018%
+C -> A: 0.036%
+C -> T: 0.018%
+T -> Deletion: 0.042%
+T -> G: 0.01%
+G -> Deletion: 0.017%
+G -> C: 0.017%
+
+Nucleotide mutation of other protein of Alpha genome vs Refseq genome
+T -> Deletion: 0.24%
+T -> C: 0.021%
+T -> A: 0.01%
+T ->  : 0.125%
+A -> Deletion: 0.201%
+A -> G: 0.022%
+A -> T: 0.011%
+A ->  : 0.48%
+G -> Deletion: 0.136%
+G -> C: 0.051%
+G -> T: 0.017%
+G -> A: 0.034%
+G ->  : 0.119%
+C -> Deletion: 0.273%
+C -> T: 0.218%
+C -> A: 0.018%
+C ->  : 0.091%
+
+Nucleotide mutation of whole Beta genome vs Refseq genome
+A ->  : 0.927%
+A -> T: 0.022%
+A -> G: 0.045%
+A -> C: 0.011%
+A -> Deletion: 0.011%
+T ->  : 0.615%
+T -> Deletion: 0.115%
+T -> C: 0.01%
+G ->  : 0.443%
+G -> T: 0.085%
+G -> Deletion: 0.051%
+G -> A: 0.017%
+C ->  : 0.583%
+C -> T: 0.255%
+C -> Deletion: 0.055%
+
+Nucleotide mutation of S protein of Beta genome vs Refseq genome
+C -> T: 0.036%
+C -> Deletion: 0.036%
+T -> C: 0.01%
+T -> Deletion: 0.052%
+A -> C: 0.011%
+A -> G: 0.022%
+A -> Deletion: 0.011%
+A -> T: 0.011%
+G -> Deletion: 0.017%
+G -> T: 0.017%
+G -> A: 0.017%
+
+Nucleotide mutation of other protein of Beta genome vs Refseq genome
+A ->  : 0.927%
+A -> T: 0.011%
+A -> G: 0.022%
+T ->  : 0.615%
+T -> Deletion: 0.063%
+G ->  : 0.443%
+G -> T: 0.068%
+G -> Deletion: 0.034%
+C ->  : 0.583%
+C -> T: 0.218%
+C -> Deletion: 0.018%
+
+Nucleotide mutation of whole Gamma genome vs Refseq genome
+A ->  : 0.536%
+A -> C: 0.022%
+A -> G: 0.034%
+A -> T: 0.011%
+T ->  : 0.167%
+T -> C: 0.031%
+T -> Deletion: 0.063%
+G ->  : 0.119%
+G -> A: 0.051%
+G -> Deletion: 0.034%
+G -> T: 0.085%
+C ->  : 0.091%
+C -> T: 0.218%
+C -> Deletion: 0.018%
+C -> A: 0.018%
+Addition -> A: 0.034%
+Addition -> C: 0.018%
+
+Nucleotide mutation of S protein of Gamma genome vs Refseq genome
+C -> T: 0.073%
+C -> A: 0.018%
+G -> T: 0.051%
+G -> A: 0.017%
+A -> C: 0.011%
+A -> T: 0.011%
+A -> G: 0.011%
+
+Nucleotide mutation of other protein of Gamma genome vs Refseq genome
+A ->  : 0.536%
+A -> C: 0.011%
+A -> G: 0.022%
+T ->  : 0.167%
+T -> C: 0.031%
+T -> Deletion: 0.063%
+G ->  : 0.119%
+G -> A: 0.034%
+G -> Deletion: 0.034%
+G -> T: 0.034%
+C ->  : 0.091%
+C -> T: 0.146%
+C -> Deletion: 0.018%
+Addition -> A: 0.034%
+Addition -> C: 0.018%
+
+Nucleotide mutation of whole Delta genome vs Refseq genome
+A ->  : 0.424%
+A -> G: 0.045%
+A -> Deletion: 0.045%
+T ->  : 0.021%
+T -> Deletion: 0.052%
+T -> G: 0.01%
+T -> C: 0.021%
+G -> T: 0.154%
+G -> A: 0.051%
+G -> Deletion: 0.034%
+G -> C: 0.017%
+G ->  : 0.034%
+C -> T: 0.291%
+C -> A: 0.036%
+C -> G: 0.036%
+C -> Deletion: 0.036%
+C ->  : 0.018%
+
+Nucleotide mutation of S protein of Delta genome vs Refseq genome
+C -> G: 0.036%
+C -> T: 0.018%
+C -> Deletion: 0.018%
+C -> A: 0.018%
+A -> Deletion: 0.022%
+A -> G: 0.011%
+G -> Deletion: 0.017%
+G -> A: 0.017%
+G -> T: 0.017%
+T -> Deletion: 0.021%
+T -> G: 0.01%
+
+Nucleotide mutation of other protein of Delta genome vs Refseq genome
+A ->  : 0.424%
+A -> G: 0.034%
+A -> Deletion: 0.022%
+T ->  : 0.021%
+T -> C: 0.021%
+T -> Deletion: 0.031%
+G -> T: 0.136%
+G -> A: 0.034%
+G -> C: 0.017%
+G -> Deletion: 0.017%
+G ->  : 0.034%
+C -> T: 0.273%
+C -> A: 0.018%
+C -> Deletion: 0.018%
+C ->  : 0.018%
+
+Nucleotide mutation of whole Omicron genome vs Refseq genome
+T -> Deletion: 0.156%
+T -> G: 0.021%
+T -> C: 0.021%
+T -> A: 0.01%
+T ->  : 0.417%
+A -> Deletion: 0.123%
+A -> G: 0.067%
+A -> C: 0.022%
+A -> T: 0.045%
+A ->  : 0.838%
+G -> Deletion: 0.154%
+G -> A: 0.051%
+G -> T: 0.017%
+G -> C: 0.034%
+G ->  : 0.614%
+C -> Deletion: 0.146%
+C -> T: 0.31%
+C -> A: 0.018%
+C ->  : 0.473%
+
+Nucleotide mutation of S protein of Omicron genome vs Refseq genome
+A -> C: 0.011%
+A -> G: 0.034%
+A -> T: 0.022%
+C -> T: 0.018%
+C -> A: 0.018%
+T -> G: 0.01%
+T -> A: 0.01%
+G -> T: 0.017%
+
+Nucleotide mutation of other protein of Omicron genome vs Refseq genome
+T -> Deletion: 0.156%
+T -> G: 0.01%
+T -> C: 0.021%
+T ->  : 0.417%
+A -> Deletion: 0.123%
+A -> G: 0.034%
+A -> C: 0.011%
+A -> T: 0.022%
+A ->  : 0.838%
+G -> Deletion: 0.154%
+G -> A: 0.051%
+G -> C: 0.034%
+G ->  : 0.614%
+C -> Deletion: 0.146%
+C -> T: 0.291%
+C ->  : 0.473%
+
+Nucleotide mutation of whole Epsilon genome vs Refseq genome
+A ->  : 0.369%
+A -> G: 0.011%
+A -> T: 0.011%
+T ->  : 0.01%
+T -> G: 0.01%
+C -> T: 0.291%
+G -> C: 0.017%
+G -> A: 0.017%
+G -> T: 0.085%
+
+Nucleotide mutation of S protein of Epsilon genome vs Refseq genome
+G -> T: 0.051%
+C -> T: 0.036%
+T -> G: 0.01%
+A -> G: 0.011%
+
+Nucleotide mutation of other protein of Epsilon genome vs Refseq genome
+A ->  : 0.369%
+A -> T: 0.011%
+T ->  : 0.01%
+C -> T: 0.255%
+G -> C: 0.017%
+G -> A: 0.017%
+G -> T: 0.034%
+
+Nucleotide mutation of whole Eta genome vs Refseq genome
+A ->  : 1.161%
+A -> G: 0.056%
+A -> Deletion: 0.034%
+A -> T: 0.011%
+T ->  : 0.75%
+T -> C: 0.042%
+T -> Deletion: 0.146%
+G ->  : 0.853%
+G -> T: 0.051%
+G -> A: 0.034%
+G -> Deletion: 0.068%
+G -> C: 0.017%
+C ->  : 0.91%
+C -> T: 0.218%
+C -> Deletion: 0.055%
+C -> G: 0.018%
+
+Nucleotide mutation of S protein of Eta genome vs Refseq genome
+A -> G: 0.022%
+A -> Deletion: 0.034%
+A -> T: 0.011%
+C -> T: 0.036%
+C -> Deletion: 0.018%
+T -> Deletion: 0.042%
+T -> C: 0.01%
+G -> Deletion: 0.017%
+G -> T: 0.017%
+G -> A: 0.017%
+G -> C: 0.017%
+
+Nucleotide mutation of other protein of Eta genome vs Refseq genome
+A ->  : 1.161%
+A -> G: 0.034%
+T ->  : 0.75%
+T -> C: 0.031%
+T -> Deletion: 0.104%
+G ->  : 0.853%
+G -> T: 0.034%
+G -> A: 0.017%
+G -> Deletion: 0.051%
+C ->  : 0.91%
+C -> T: 0.182%
+C -> Deletion: 0.036%
+C -> G: 0.018%
+
+Nucleotide mutation of whole Iota genome vs Refseq genome
+T -> Deletion: 0.24%
+T -> C: 0.01%
+T ->  : 0.125%
+A -> Deletion: 0.201%
+A -> C: 0.011%
+A -> G: 0.034%
+A ->  : 0.48%
+G -> Deletion: 0.136%
+G -> T: 0.034%
+G -> A: 0.034%
+G ->  : 0.119%
+C -> Deletion: 0.273%
+C -> T: 0.31%
+C ->  : 0.091%
+
+Nucleotide mutation of S protein of Iota genome vs Refseq genome
+C -> T: 0.055%
+A -> G: 0.022%
+G -> A: 0.017%
+
+Nucleotide mutation of other protein of Iota genome vs Refseq genome
+T -> Deletion: 0.24%
+T -> C: 0.01%
+T ->  : 0.125%
+A -> Deletion: 0.201%
+A -> C: 0.011%
+A -> G: 0.011%
+A ->  : 0.48%
+G -> Deletion: 0.136%
+G -> T: 0.034%
+G -> A: 0.017%
+G ->  : 0.119%
+C -> Deletion: 0.273%
+C -> T: 0.255%
+C ->  : 0.091%
+
+Nucleotide mutation of whole Kappa genome vs Refseq genome
+T -> Deletion: 0.094%
+T -> G: 0.031%
+T -> C: 0.021%
+T ->  : 0.01%
+A -> Deletion: 0.134%
+A -> G: 0.034%
+A -> T: 0.011%
+A ->  : 0.413%
+G -> Deletion: 0.068%
+G -> T: 0.136%
+G -> A: 0.051%
+G -> C: 0.017%
+G ->  : 0.051%
+C -> Deletion: 0.109%
+C -> T: 0.182%
+C -> G: 0.018%
+C ->  : 0.018%
+
+Nucleotide mutation of S protein of Kappa genome vs Refseq genome
+C -> T: 0.018%
+C -> G: 0.018%
+T -> C: 0.01%
+T -> G: 0.01%
+G -> A: 0.034%
+G -> C: 0.017%
+A -> G: 0.011%
+A -> T: 0.011%
+
+Nucleotide mutation of other protein of Kappa genome vs Refseq genome
+T -> Deletion: 0.094%
+T -> G: 0.021%
+T -> C: 0.01%
+T ->  : 0.01%
+A -> Deletion: 0.134%
+A -> G: 0.022%
+A ->  : 0.413%
+G -> Deletion: 0.068%
+G -> T: 0.136%
+G -> A: 0.017%
+G ->  : 0.051%
+C -> Deletion: 0.109%
+C -> T: 0.164%
+C ->  : 0.018%
+
+Nucleotide mutation of whole Mu genome vs Refseq genome
+A -> G: 0.034%
+A -> T: 0.045%
+A -> C: 0.011%
+A -> Deletion: 0.011%
+T -> C: 0.021%
+T -> A: 0.01%
+T -> Deletion: 0.021%
+G -> T: 0.085%
+G -> A: 0.051%
+G -> Deletion: 0.017%
+C -> T: 0.255%
+C -> A: 0.055%
+Addition -> C: 0.018%
+Addition -> T: 0.01%
+Addition -> A: 0.011%
+
+Nucleotide mutation of S protein of Mu genome vs Refseq genome
+C -> T: 0.018%
+C -> A: 0.018%
+T -> A: 0.01%
+A -> C: 0.011%
+A -> T: 0.011%
+A -> G: 0.011%
+Addition -> C: 0.018%
+Addition -> T: 0.01%
+Addition -> A: 0.011%
+G -> A: 0.051%
+G -> T: 0.017%
+
+Nucleotide mutation of other protein of Mu genome vs Refseq genome
+A -> G: 0.022%
+A -> T: 0.034%
+A -> Deletion: 0.011%
+T -> C: 0.021%
+T -> Deletion: 0.021%
+G -> T: 0.068%
+G -> Deletion: 0.017%
+C -> T: 0.237%
+C -> A: 0.036%
+
+Nucleotide mutation of whole Zeta genome vs Refseq genome
+A ->  : 0.469%
+A -> G: 0.022%
+A -> T: 0.011%
+T ->  : 0.094%
+T -> A: 0.01%
+T -> C: 0.01%
+T -> G: 0.021%
+G ->  : 0.119%
+G -> A: 0.051%
+G -> T: 0.051%
+G -> C: 0.017%
+C -> T: 0.164%
+C -> A: 0.018%
+C ->  : 0.055%
+
+Nucleotide mutation of S protein of Zeta genome vs Refseq genome
+C -> A: 0.018%
+G -> A: 0.017%
+G -> T: 0.017%
+A -> G: 0.011%
+
+Nucleotide mutation of other protein of Zeta genome vs Refseq genome
+A ->  : 0.469%
+A -> G: 0.011%
+A -> T: 0.011%
+T ->  : 0.094%
+T -> A: 0.01%
+T -> C: 0.01%
+T -> G: 0.021%
+G ->  : 0.119%
+G -> T: 0.034%
+G -> A: 0.034%
+G -> C: 0.017%
+C -> T: 0.164%
+C ->  : 0.055%
